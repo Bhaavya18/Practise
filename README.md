@@ -1,2 +1,2 @@
 # Practise
-It's just git branch practise repository.
+It's just a git branch practise repository.
