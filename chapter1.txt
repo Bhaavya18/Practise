@@ -1,2 +1,2 @@
 It's a chapter about git branching.
-Here we are now in the master branch
+Here we are now in the book2 branch
